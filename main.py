@@ -1,0 +1,1 @@
+print("Wszystkiego najlepszego Piotrze!")
